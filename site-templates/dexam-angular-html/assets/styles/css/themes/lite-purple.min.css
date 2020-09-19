@@ -18737,7 +18737,7 @@ button.ul-accordion__link {
 .intro-four-Wrap:after {
     content: "";
     display: block;
-    background: url(../../../images/landing/Bg/Bg_02.png) bottom no-repeat;
+    background: url(../../../images/landing/Bg/Bg.png) bottom no-repeat;
     background-size: cover;
     bottom: -8px;
 }
@@ -18774,7 +18774,7 @@ button.ul-accordion__link {
 .intro-five-Wrap:after {
     content: "";
     display: block;
-    background: url(../../../images/landing/Bg/Bg_02.png) bottom no-repeat;
+    background: url(../../../images/landing/Bg/Bg.png) bottom no-repeat;
     background-size: cover;
     bottom: -8px;
 }
