@@ -8591,6 +8591,9 @@ button.bg-gray-900:hover {
 .text-white {
     color: #fff !important;
 }
+.text-black {
+    color: #000 !important;
+}
 .text-primary {
     color: #639 !important;
 }
@@ -14594,6 +14597,12 @@ html [type="button"] {
     background-image: none;
     border-color: #fff;
 }
+.btn.btn-outline-black {
+    color: #000;
+    background-color: transparent;
+    background-image: none;
+    border-color: #000;
+}
 .btn.btn-outline-white:hover {
     background-color: #fff;
     color: #333;
@@ -18703,7 +18712,7 @@ button.ul-accordion__link {
 }
 .intro-four-Wrap {
     padding: 180px 0;
-    color: #fff;
+    color: #000;
     overflow: hidden;
     z-index: 99;
 }
