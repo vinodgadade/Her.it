@@ -50,6 +50,7 @@ html {
     -ms-text-size-adjust: 100%;
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    scroll-behavior: smooth ;
 }
 @-ms-viewport {
     width: device-width;
@@ -14105,7 +14106,7 @@ a.typo_link.text-gray-900:after {
     padding-left: 0.5rem !important;
 }
 .p-t-b-80 {
-    padding: 80px 0;
+    padding: 145px 0 80px 0;
 }
 .h-0px {
     height: 0;
@@ -19128,7 +19129,7 @@ button.ul-accordion__link {
     line-height: 10px;
 }
 .services-caurosel-wrap {
-    padding: 80px 0;
+    padding: 145px 0 80px 0;
 }
 .services-caurosel-wrap .section-header p {
     max-width: 600px;
