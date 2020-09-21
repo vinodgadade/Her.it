@@ -17070,6 +17070,7 @@ select.form-control {
     height: auto;
     margin: 0 auto;
     display: block;
+    
 }
 .main-header .show .header-icon {
     background: #f8f9fa;
@@ -19321,7 +19322,9 @@ button.ul-accordion__link {
 }
 @media only screen and (max-width: 746px) {
     img {
-        margin: 0 !important;
+        margin-left: 5px !important;
+        margin-top:5px !important;
+        *margin: 0 !important;
     }
 }
 .right-image-wrap img.card {
