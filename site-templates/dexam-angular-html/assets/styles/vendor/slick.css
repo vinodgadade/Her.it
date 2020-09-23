@@ -78,7 +78,7 @@
 {
     display: none;
     float: left;
-
+   
     height: 100%;
     min-height: 1px;
 }
@@ -89,6 +89,8 @@
 .slick-slide img
 {
     display: block;
+    max-width: 80% !important;
+    margin: auto !important;
 }
 .slick-slide.slick-loading img
 {
