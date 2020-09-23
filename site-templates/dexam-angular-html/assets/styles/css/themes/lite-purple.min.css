@@ -4359,6 +4359,7 @@ input[type="submit"].btn-block {
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, 0.125);
+    margin: 2%;
     border-radius: 0.25rem;
 }
 .card > hr {
@@ -14334,7 +14335,7 @@ a.typo_link.text-gray-900:after {
     border-bottom: 1px dotted #47404f;
 }
 .card {
-    border-radius: 10px;
+    border-radius: 30px;
     box-shadow: 0 1px 15px 1px rgba(0, 0, 0, 0.04), 0 1px 6px rgba(0, 0, 0, 0.04);
     border: 0;
     transition: all 0.15s ease-in;
