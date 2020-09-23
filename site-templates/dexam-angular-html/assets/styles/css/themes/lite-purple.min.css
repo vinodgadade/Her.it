@@ -19095,7 +19095,7 @@ button.ul-accordion__link {
     margin-right: -8px;
 }
 .work-carousel-wrap .section-header p {
-    max-width: 600px;
+    max-width: 690px;
 }
 .work-carousel-wrap .card .card-img-top {
     max-height: 300px;
@@ -19111,7 +19111,7 @@ button.ul-accordion__link {
     padding: 80px 0;
 }
 .services-wrap .section-header p {
-    max-width: 600px;
+    max-width: 690px;
 }
 .services-wrap .service-wrap .card .card-header {
     border-color: transparent;
@@ -19133,7 +19133,7 @@ button.ul-accordion__link {
     padding: 145px 0 80px 0;
 }
 .services-caurosel-wrap .section-header p {
-    max-width: 600px;
+    max-width: 690px;
 }
 .services-caurosel-wrap .service-wrap .card .card-header {
     border-color: transparent;
@@ -19679,7 +19679,7 @@ body {
     transition: all 0.5s ease-in;
 }
 .section-header p {
-    max-width: 600px;
+    max-width: 690px;
     margin-bottom: 0 !important;
 }
 .section-header h2 {
