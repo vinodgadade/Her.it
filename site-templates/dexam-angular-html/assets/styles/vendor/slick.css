@@ -91,7 +91,7 @@
     display: block;
     margin: auto !important;
 }
-.why-slick > img {
+.why-slick > img, .film-vid > img {
     max-width: 80% !important;
 }
 .slick-slide.slick-loading img
