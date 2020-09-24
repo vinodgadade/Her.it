@@ -89,8 +89,10 @@
 .slick-slide img
 {
     display: block;
-    *max-width: 80% !important;
     margin: auto !important;
+}
+.why-slick > img {
+    max-width: 80% !important;
 }
 .slick-slide.slick-loading img
 {
