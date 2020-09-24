@@ -14107,7 +14107,7 @@ a.typo_link.text-gray-900:after {
     padding-left: 0.5rem !important;
 }
 .p-t-b-80 {
-    padding: 145px 0 80px 0;
+    padding: 80px 0 80px 0;
 }
 .h-0px {
     height: 0;
@@ -14478,8 +14478,8 @@ a.typo_link.text-gray-900:after {
     color: rgba(71, 64, 79, 0.28);
 }
 .card-profile-1 .avatar {
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
     margin: auto;
     border-radius: 50%;
@@ -19131,7 +19131,7 @@ button.ul-accordion__link {
     line-height: 10px;
 }
 .services-caurosel-wrap {
-    padding: 145px 0 80px 0;
+    padding: 80px 0 80px 0;
 }
 .services-caurosel-wrap .section-header p {
     max-width: 690px;
@@ -19704,6 +19704,10 @@ body {
 .text-warning {
     color: #ffc107 !important;
     -webkit-text-fill-color: #ffc107 !important;
+}
+.text-pink {
+    color: #ed6f86 !important;
+    -webkit-text-fill-color: #ed6f86 !important;
 }
 .btn {
     transition: all 0.5s ease-in 0s;
