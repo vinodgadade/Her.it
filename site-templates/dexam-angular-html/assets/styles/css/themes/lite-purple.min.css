@@ -19326,6 +19326,7 @@ button.ul-accordion__link {
         margin-left: 5px !important;
         margin-top:5px !important;
         *margin: 0 !important;
+        object-fit: contain !important;
     }
 }
 .right-image-wrap img.card {
