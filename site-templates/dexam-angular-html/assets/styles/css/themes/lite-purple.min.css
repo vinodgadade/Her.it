@@ -19948,3 +19948,8 @@ blockquote {
 [dir="rtl"] .rtl-ps-none .ps__rail-y {
     display: none;
 }
+/* aaded by parul*/
+
+img.icon{
+    width: 80% !important;
+}
