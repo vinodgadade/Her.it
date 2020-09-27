@@ -17316,7 +17316,7 @@ span.navbar-toggler-icon .eva {
     .notification-dropdown {
         left: 10px !important;
     }
-    .landing-red-light .header-fixed {
+    .landing-red-light .header-fixed, .header-fixed-default {
         background: #3a4c23 !important;
     }
     .film_icon {
