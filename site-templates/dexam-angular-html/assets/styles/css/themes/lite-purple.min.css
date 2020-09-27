@@ -19953,3 +19953,6 @@ blockquote {
 img.icon{
     width: 70% !important;
 }
+img.service-icon{
+    width: 10% !important;
+}
