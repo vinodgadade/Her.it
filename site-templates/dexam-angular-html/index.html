@@ -1480,6 +1480,15 @@
                                             <label for="">
                                                 <i class="eva eva-edit-2-outline"></i>
                                             </label>
+                                            <input 
+                                            oninput='javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);'
+                                            type = "number"
+                                            maxlength = "10" required name="phone" class="form-control email-phone" placeholder="Your Phone Number here" aria-describedby="helpId">
+                                        </div>
+                                        <div class="form-group mb-4 col-md-12">
+                                            <label for="">
+                                                <i class="eva eva-edit-2-outline"></i>
+                                            </label>
                                             <input type="text" required name="subject" class="form-control email-subject" placeholder="Your subject here" aria-describedby="helpId">
 
                                         </div>
