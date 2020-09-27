@@ -17331,6 +17331,12 @@ span.navbar-toggler-icon .eva {
         margin: 0;
     }
 }
+@media only screen and (max-width: 992px) and (min-width: 580px)  {
+    .main-header {
+        height: 136px !important;
+    }
+}
+
 .custom-separator {
     border-bottom: 1px dashed #ebedf2;
     margin: 15px 0;
