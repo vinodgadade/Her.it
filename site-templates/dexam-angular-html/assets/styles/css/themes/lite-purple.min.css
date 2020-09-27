@@ -11229,8 +11229,7 @@ a.text-gray-900:hover {
 }
 .landing-red-light .header-fixed {
     /*background: #3a4c23 !important;*/
-    background: rgb(203,223,129);
-background: linear-gradient(141deg, rgba(203,223,129,1) 34%, rgba(247,241,141,1) 100%) !important;
+    background: linear-gradient(141deg, rgba(203,223,129,1) 34%, rgba(247,241,141,1) 100%) !important;
 }
 .landing-red-light .overlay {
     /*background: #3a4c23;*/
@@ -17317,6 +17316,9 @@ span.navbar-toggler-icon .eva {
     .notification-dropdown {
         left: 10px !important;
     }
+    .landing-red-light .header-fixed {
+        background: #3a4c23 !important;
+    }
 }
 @media (max-width: 360px) {
     .main-header .menu-toggle {
@@ -19959,7 +19961,7 @@ img.icon{
     width: 70% !important;
 }
 img.service-icon{
-    width: 10% !important;
+    width: 10%;
 }
 .margin_correction{
     margin-left: 0px !important;
