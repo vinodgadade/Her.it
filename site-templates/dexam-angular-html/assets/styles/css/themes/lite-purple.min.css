@@ -15464,7 +15464,7 @@ ngb-tabset.p-0 .tab-content {
 .form-control {
     border: initial;
     outline: initial !important;
-    background: #f8f9fa;
+    background: #fff;
     color: #47404f;
 }
 .form-control:-ms-input-placeholder,
