@@ -19415,7 +19415,7 @@ button.ul-accordion__link {
     background-size: cover;
 }
 .footer_wrap {
-    padding: 40px 0 80px;
+    padding: 40px 0 10px;
     color: #47404f;
     overflow: hidden;
     position: relative;
