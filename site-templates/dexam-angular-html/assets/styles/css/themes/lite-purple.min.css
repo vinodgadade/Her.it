@@ -19967,3 +19967,14 @@ img.service-icon{
 .video-margin{
     margin: 0px !important;
 }
+.content_icon{
+    font-size: 130px;
+    outline: none;
+    position: absolute;
+    left: -7%;
+    top: 6%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    opacity: 0.8;
+}
