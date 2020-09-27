@@ -19980,3 +19980,27 @@ img.service-icon{
     -webkit-text-fill-color: transparent;
     opacity: 0.8;
 }
+
+
+/* Content specialist block css */
+.content-specialist-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5%;
+}
+.content-specialist-img-holder {
+    margin-left: -12%;
+    display: flex;
+    width: 60%;
+    margin-right: 2%;
+}
+.content-specialist-text {
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+}
+.content-specialist-text > h4 {
+    font-weight: 700;
+} 
+/* End */
