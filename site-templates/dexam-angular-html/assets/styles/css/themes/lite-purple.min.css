@@ -17319,6 +17319,12 @@ span.navbar-toggler-icon .eva {
     .landing-red-light .header-fixed {
         background: #3a4c23 !important;
     }
+    .film_icon {
+        width: 15% !important;
+    }
+    #success-click {
+        font-size: 82% !important;
+    }
 }
 @media (max-width: 360px) {
     .main-header .menu-toggle {
