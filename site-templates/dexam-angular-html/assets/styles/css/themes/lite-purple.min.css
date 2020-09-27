@@ -4925,6 +4925,11 @@ input[type="submit"].btn-block {
     background-color: #dbefdc;
     border-color: #cde9ce;
 }
+.alert-error {
+    color: #cf3838;
+    background-color: #f2bbbb;
+    border-color: #f4b0b0;
+}
 .alert-success hr {
     border-top-color: #bbe1bd;
 }
