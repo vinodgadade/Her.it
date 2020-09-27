@@ -19980,7 +19980,9 @@ img.service-icon{
     -webkit-text-fill-color: transparent;
     opacity: 0.8;
 }
-
+img.film_icon {
+    width: 40%;
+}
 
 /* Content specialist block css */
 .content-specialist-container {
