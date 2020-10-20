@@ -19348,6 +19348,10 @@ button.ul-accordion__link {
         *margin: 0 !important;
         object-fit: contain !important;
     }
+    .blog-img{
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
 }
 .right-image-wrap img.card {
     background: transparent;
