@@ -13073,3 +13073,18 @@ color: white;
  transform: translateX(-50%); 
  }
 }
+
+
+.amazon-btn{
+  position: absolute;
+  background-image: url('../img/128x128.png');
+  background-repeat: no-repeat;
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+  background-color: transparent;
+  border: none;
+  right: 18%;
+  bottom: 5%;
+  cursor: pointer;
+}
