@@ -13077,14 +13077,14 @@ color: white;
 
 .amazon-btn{
   position: absolute;
-  background-image: url('../img/128x128.png');
+  background-image: url('../img/amazon-buy-now-button.png');
   background-repeat: no-repeat;
-  width: 128px;
-  height: 128px;
+  width: 18%;
+  height: 10%;
   background-size: cover;
   background-color: transparent;
   border: none;
-  right: 18%;
-  bottom: 2%;
+  right: 14%;
+  bottom: 3%;
   cursor: pointer;
 }
